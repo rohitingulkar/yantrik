@@ -1,0 +1,4 @@
+include ':app'
+include ':splashy'
+
+rootProject.name = "Yantrik"

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Yantrik</string>
+
+    <!--Activity String -->
+    <string name="new_confirmed">New Confirmed :</string>
+    <string name="total_confirmed">Total Confirmed :</string>
+    <string name="new_deaths">New Deaths :</string>
+    <string name="total_deaths">Total Deaths:</string>
+    <string name="new_recovered">New Recovered :</string>
+    <string name="total_recovered">Total Recovered :</string>
+
+    <!--Adapter String -->
+    <string name="country">Country :</string>
+    <string name="country_code">CountryCode :</string>
+    <string name="slug">Slug :</string>
+    <string name="date">Date :</string>
+
+</resources>
